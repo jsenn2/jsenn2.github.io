@@ -2,7 +2,7 @@
 title: "CV"
 layout: page
 ---
-<img src="photos/circle_2.png" alt="Alt text" title="JS_bw" width="300" height="300">
+<img src="photos/circle_2.png" alt="Alt text" title="JS_bw" width="150" height="150">
 
 
 ## Occupation
