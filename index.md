@@ -2,7 +2,8 @@
 title: "CV"
 layout: page
 ---
-![Alt text](photos/circle_2.png "Optional title")
+<img src="photos/circle_2.png" alt="Alt text" title="JS_bw" width="300" height="300">
+
 
 ## Occupation
 
