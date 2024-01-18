@@ -17,8 +17,8 @@ layout: page
 
 #### Research articles
 
-- Senn, J., Stolz, J. and Monnot, C. (2023). Diversity dynamics. How local religious groups are born, stay, and die over time. (Accept with minor revision, Journal for the Scientific Study of Religion)
-- Stolz, J., Senn, J. (2023). Religious markets, religious marketing, and individual religious choice in Europe. In Fokas, E. and Georgie, A. (eds.) _Routledge Handbook on Politics and Religion in Europe_. London: Routledge. (in print)
+- Senn, J., Stolz, J. and Monnot, C. (2024). Diversity dynamics. How local religious groups are born, stay, and die over time. _Journal for the Scientific Study of Religion_. (in press)
+- Stolz, J., Senn, J. (2024). Religious markets, religious marketing, and individual religious choice in Europe. In Fokas, E. and Georgie, A. (eds.) _Routledge Handbook on Politics and Religion in Europe_. London: Routledge. (in press)
 - Stolz, J., Senn, J. (2023). Säkularisierung und der Anstieg der Konfessionslosen in der Schweiz. Eine soziologische Perspektive. In Schulthess (Ed.). In _Zeiten der Säkularisierung. Herausforderungen für das Verhältnis von Staat und Religion_.
 - Stolz, J., and Senn, J. (2022). Generationen abnehmenden Glaubens. In J. Stolz, A. Bünker, A. Liedhegener, E. Baumann-Neuhaus, I. Becci, Z. Dandarova Robert, J. Senn, P. Tanner, O. Wäckerlig, & U. Winter-Pfändler (Eds.), _Religionstrends in der Schweiz : Religion, Spiritualität und Säkularität im gesellschaftlichen Wandel_ (pp. 7-31). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-36568-4_2
   - [Full text](https://link.springer.com/content/pdf/10.1007/978-3-658-36568-4_2.pdf)
