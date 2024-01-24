@@ -32,7 +32,7 @@ layout: page
 ### Newspapers and online articles
 
 - Senn, J (2023). [Les communautés locales musulmanes en suisse : évolution entre 2008 et 2020](https://islamandsociety.ch/fr/home-2/swiss/organisations/local/#section2) _Islam and Society_
-- Stolz, J., Senn, J. (2021, November 11). [La foi décroissante, une question de générations.](https://github.com/jsenn2/jsenn2.github.io/blob/master/Article%20Le%20Temps%20'Opinion'.pdf) _Le Temps_.
+- Stolz, J., Senn, J. (2021, November 11). [La foi décroissante, une question de générations.](https://www.letemps.ch/opinions/foi-decroissante-une-question-generations) _Le Temps_.
 - Stolz, J., Senn, J. (2021, December 30). [Warum sich die Kirchen leeren](https://www.nzz.ch/meinung/die-saekularisierung-nimmt-von-generation-zu-generation-zu-ld.1653066?reduced=true) _Neue Zürcher Zeitung_.
 
 ### Media interviews/mentions
@@ -47,7 +47,7 @@ layout: page
 - Fernandez, L. (2023, February 6). [Plus d&#39;un Neuchâtelois sur deux se dit «sans religion»](https://www.arcinfo.ch/neuchatel-canton/pres-de-52-des-neuchatelois-se-disent-sans-religion-1256614) _Arc Info_.
 - Hartmann, D. (2022, November 18). [A chaque génération sa foi](https://lecourrier.ch/2021/11/18/a-chaque-generation-sa-foi/) _Le Courrier_.
 - ATS (2022, November 13). [Un certain déclin de la foi chrétienne en Suisse](https://www.laliberte.ch/news/un-certain-declin-de-la-foi-chretienne-en-suisse-625558) _La Liberté_.
-- Agathe Seppey (2022, April 15). [Où va la foi? «Chaque génération est moins religieuse que la précédente»](https://www.letemps.ch/opinions/foi-decroissante-une-question-generations) _Le Temps_.
+- Agathe Seppey (2022, April 15). [Où va la foi? «Chaque génération est moins religieuse que la précédente»](https://www.letemps.ch/societe/va-foi-generation-religieuse-precedente) _Le Temps_.
 
 ## Conferences / talks
 
