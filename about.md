@@ -10,8 +10,6 @@ My academic journey has been a mix of exploring religious diversity, secularizat
 
 In the realm of research, my true love lies in quantitative methods, especially using R. Beyond that, I really enjoy chess and walking.
 
-Beyond the world of academia, I've also engaged with wider audiences through newspaper articles and radio interviews, discussing topics like the growth of non-religious populations and the reasons behind the shifting religious sentiments in society. Beyond that, I really enjoy chess and walking.
-
 
 
 
