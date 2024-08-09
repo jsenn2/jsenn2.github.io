@@ -52,6 +52,18 @@ layout: page
 
 ## Conferences / talks
 
+### 2024
+
+- **ASR 2024 Annual Meeting**
+  `Montral Canada`
+  - *The effects of the Covid pandemic and the reaction of congregations in Switzerland*
+
+### 2023
+
+- **Study days on the institutional recognition of religious diversity**
+  `University of Lausanne, Switzerland`
+  - *Perspective institutionelle. Le cas de la Suisse*
+
 ### 2022
 
 - **SSSR+RRA 2022 Annual Meeting**
@@ -77,7 +89,7 @@ layout: page
 
 ## Invited addresses
 
-- 2024 : Invited scholar for 6 months at Duke University (USA) with Mark Chaves (forthcoming)
+- 2024 : Invited scholar for 6 months at Duke University (USA) with Mark Chaves 
 
 ## Peer Review Experience:
 
