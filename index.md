@@ -55,7 +55,7 @@ layout: page
 ### 2024
 
 - **ASR 2024 Annual Meeting**
-  `Montral Canada`
+  `Montreal, Canada`
   - *The effects of the Covid pandemic and the reaction of congregations in Switzerland*
 
 ### 2023
