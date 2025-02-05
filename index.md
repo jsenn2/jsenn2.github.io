@@ -17,6 +17,7 @@ layout: page
 
 #### Research articles
 
+- Senn, J., Stolz, J. (2025, forthcoming). The sequential rise of female religious leadership. _Sociological Science_.
 - Stolz, J., Köhrsen, J., Senn et al. (2024). Sécularisation et inclusion. L’évolution des groupes religieux locaux en Suisse, 2008 – 2022. _Social Change in Switzerland, 39_. [https://doi.org/10.22019/SC-2024-00005](https://doi.org/10.22019/SC-2024-00005)
 - Senn, J., Stolz, J. and Monnot, C. (2024). Diversity dynamics. How local religious groups are born, stay, and die over time. _Journal for the Scientific Study of Religion_. [http://doi.org/10.1111/jssr.12907](http://doi.org/10.1111/jssr.12907)  
 - Stolz, J., Senn, J. (in press). Religious markets, religious marketing, and individual religious choice in Europe. In Fokas, E. and Georgie, A. (eds.) _Routledge Handbook on Politics and Religion in Europe_. London: Routledge. 
