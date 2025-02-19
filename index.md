@@ -44,7 +44,7 @@ layout: page
 - Senn, J. (2023, April 1). [Radio interview about secularization in Switzerland](http://avisdexperts.ch/videos/view/15916). Interviewed by Z. Decker. 6h-9h Le samedi. RSR La Première.
 
 #### Newspapers
-
+- Monayron, G. (2024, December 16). [« Autrefois les religions expliquaient le monde. Aujourd’hui, c’est la science »](https://wp.unil.ch/uniscope/autrefois-les-religions-expliquaient-le-monde-aujourdhui-cest-la-science/?utm_source=short&utm_medium=generic) _L'Uniscope_.
 - Burri, J. (2023, March 28). [Les causes du mouvement de sécularisation restent inexpliquées](https://ww/mentionsw.reformes.ch/societe/2023/03/les-causes-du-mouvement-de-secularisation-restent-inexpliquees-journal-reformes) _Réformés_.
 - Fernandez, L. (2023, February 6). [Plus d&#39;un Neuchâtelois sur deux se dit «sans religion»](https://www.arcinfo.ch/neuchatel-canton/pres-de-52-des-neuchatelois-se-disent-sans-religion-1256614) _Arc Info_.
 - Hartmann, D. (2022, November 18). [A chaque génération sa foi](https://lecourrier.ch/2021/11/18/a-chaque-generation-sa-foi/) _Le Courrier_.
