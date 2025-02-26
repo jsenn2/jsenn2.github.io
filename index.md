@@ -53,9 +53,13 @@ layout: page
 
 ## Conferences / talks
 
+### 2025
+- **Material religion: between heritage and new perspectives**
+  `University of Strasbourg, France`
+  - *Does the building play a role in the continuation of religious activities of local congregations in Switzerland?*
+ 
 ### 2024
-
-- **ASR 2024 Annual Meeting**
+- **ASR 2024 annual meeting**
   `Montreal, Canada`
   - *The effects of the Covid pandemic and the reaction of congregations in Switzerland*
 
@@ -67,7 +71,7 @@ layout: page
 
 ### 2022
 
-- **SSSR+RRA 2022 Annual Meeting**
+- **SSSR+RRA 2022 anual Meeting**
   `Baltimore, USA`
   - *Is religious diversity really growing ? Results from the 2nd National Congregation Study Switzerland*
 - **Consortium for International Surveys of Congregations (CISC) Research Symposium**
