@@ -55,9 +55,15 @@ layout: page
 ## Conferences / talks
 
 ### 2025
+- **ECSR 2025 annual conference**
+  `University of Cologne, Germany`
+  - *Gay grace. The sequential rise of homosexuality acceptance in Swiss and US congregations*
 - **Material religion: between heritage and new perspectives**
   `University of Strasbourg, France`
   - *Does the building play a role in the continuation of religious activities of local congregations in Switzerland?*
+- **LIVES day conference**
+  `University of Lausanne, Switzerland`
+  - *Gay grace. The sequential rise of homosexuality acceptance in Swiss and US congregations*
  
 ### 2024
 - **ASR 2024 annual meeting**
