@@ -122,18 +122,29 @@ layout: page
 
 ## Skills
 
-- Statistical analysis
-  - Mostly with the R software
-  - Training
-    - Machine learning (USI Summer School, prof. M. Steenbergen)
-- Coordination
-  - Organized the coordination with the scientific partners ([ZRWP](https://theologie.unibas.ch/de/fakultaet/zentrum-religion-wirtschaft-politik/) of the University of Basel and the [CIC](https://cic-info.ch/))
+- Survey Research & Data Collection
+	- Collected the NCSS 2 census (5,883 congregations identified)
+	- Designed and implemented multi-language nationally representative surveys (NCSS 2: n=1,395 congregations, 45.4% response rate)
+		- Developed stratified random sampling with targeted oversampling for minority groups
+		- Co-conducted questionnaire design and cognitive pre-testing
+		- Developed multi-level weighting schemes correcting for stratification and catholic parishes clustering
+- Statistical Analysis (R)
+	- Diversity measures (see _Diversity Dynamics_)
+	- Regression modelling, using survey and panel data (see _Sequential rise of female religious leadership_ and  _Diversity dynamics_)
+	- Bayesian methods: Multivariate beta regression (see _Sequential rise of female religious leadership_)
+	- Simulation modelling to explore practice–policy lags in female leadership (see _Sequential rise of female religious leadership_)
+	- Missing data imputation: Random forest-based methods (missRanger package)
+- Project Coordination
+	- Contributed to multi-institutional research collaboration (University of Lausanne, Basel, CIC)
+	- Managed survey implementation with LINK Institute
+	- Coordinated with 13+ religious federations for data access
+	- Produced comprehensive methodological documentation for replication
 - Team management
   - Led a team of student assistants (up to 5 people simultaneously)
   - Supervised the census of Swiss religious communities (N ≈ 6000)
-- Practical skills
+- Other skills   
   - Mass mailing (2500 personalized invitation letters and physical mailing to contact and survey the communities leaders)
-  - (very) Rudimentary web content creation [(NCSS 2 website)](https://wp.unil.ch/ncs2/)
+  - Rudimentary web content creation [(NCSS 2 website)](https://wp.unil.ch/ncs2/)
 
 ## Links
 
