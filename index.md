@@ -141,10 +141,9 @@ layout: page
 	- Produced comprehensive methodological documentation for replication
 - Team management
   - Led a team of student assistants (up to 5 people simultaneously)
-  - Supervised the census of Swiss religious communities (N ≈ 6000)
 - Other skills   
   - Mass mailing (2500 personalized invitation letters and physical mailing to contact and survey the communities leaders)
-  - Rudimentary web content creation [(NCSS 2 website)](https://wp.unil.ch/ncs2/)
+  - Web content creation [(NCSS 2 website)](https://wp.unil.ch/ncs2/)
 
 ## Links
 
