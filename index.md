@@ -57,7 +57,7 @@ layout: page
 ### 2025
 - **ECSR 2025 annual conference**
   `University of Cologne, Germany`
-  - *Gay grace. The sequential rise of homosexuality acceptance in Swiss and US congregations*
+  - *The sequential rise of female religious leadership*
 - **SISR/ISSR 2025 annual conference**
   `Kaunas, Lithuania`
   - *Gay grace. The sequential rise of homosexuality acceptance in Swiss and US congregations*
@@ -73,12 +73,6 @@ layout: page
   `Montreal, Canada`
   - *The effects of the Covid pandemic and the reaction of congregations in Switzerland*
 
-### 2023
-
-- **Study days on the institutional recognition of religious diversity**
-  `University of Lausanne, Switzerland`
-  - *Perspective institutionelle. Le cas de la Suisse*
-
 ### 2022
 
 - **SSSR+RRA 2022 anual Meeting**
@@ -87,12 +81,6 @@ layout: page
 - **Consortium for International Surveys of Congregations (CISC) Research Symposium**
   `University of Copenhagen, Denmark`
   - *Diversity dynamics. How local religious groups are born, stay, and die over time*
-- **Pluralité religieuse et enjeux de reconnaissance social (seminary)**
-  `University of Strasbourg, France`
-  - *L'évolution du paysage religieux suisse (2008-2020). Diversité, mortalité et fusions des groupes religieux locaux*
-- **Atelier de terrain en sciences sociales des religions contemporaines (seminary)**
-  `University of Lausanne, Switzerland`
-  - *Le champ des groupes religieux locaux en Suisse. Structure institutionnelle et diversité*
 
 ### 2021
 
@@ -101,6 +89,28 @@ layout: page
 - **ISSR 2021 Research Symposium**
   `University of Lausanne`
   - *L'évolution du paysage religieux suisse (2008-2020). Diversité, mortalité et fusions des groupes religieux locaux*
+
+## Teaching
+### 2025
+
+- **Diversité religieuse en institution (Professional training course, EPFL/UNIL)** 
+   `University of Lausanne, Switzerland`
+  - *Diversité religieuse en Suisse : un panorama dynamique*
+
+### 2023
+
+- **Study days on the institutional recognition of religious diversity**
+  `University of Lausanne, Switzerland`
+  - *Perspective institutionelle. Le cas de la Suisse*
+
+### 2022
+
+- **Pluralité religieuse et enjeux de reconnaissance social (seminary)**
+  `University of Strasbourg, France`
+  - *L'évolution du paysage religieux suisse (2008-2020). Diversité, mortalité et fusions des groupes religieux locaux*
+- **Atelier de terrain en sciences sociales des religions contemporaines (seminary)**
+  `University of Lausanne, Switzerland`
+  - *Le champ des groupes religieux locaux en Suisse. Structure institutionnelle et diversité*
 
 ## Invited addresses
 
