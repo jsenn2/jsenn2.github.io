@@ -60,7 +60,7 @@ layout: page
   - *The sequential rise of female religious leadership*
 - **SISR/ISSR 2025 annual conference**
   `Kaunas, Lithuania`
-  - *Gay grace. The sequential rise of homosexuality acceptance in Swiss and US congregations*
+  - *Switzerland's changing religious landscape. Key results from the National Congregation Study Switzerland*
 - **LIVES day 2025**
   `University of Lausanne, Switzerland`
   - *Gay grace. The sequential rise of homosexuality acceptance in Swiss and US congregations*
