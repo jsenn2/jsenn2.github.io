@@ -17,8 +17,8 @@ layout: page
 
 #### Datasets
 
-- Senn, J., Stolz, J., & Köhrsen, J. (2025). National Congregations Study Switzerland (NCSS) cross-sectional surveys, waves 1 and 2 (2008–2009, 2022–2023) (Version 1.0) [Data set]. FORS. https://doi.org/10.48573/km80-t892
-- Senn, J., Stolz, J., & Köhrsen, J. (2025). National Congregations Study Switzerland (NCSS) congregational census, waves 1 and 2 (2008–2009, 2020–2021) (Version 1.0) [Data set]. FORS. https://doi.org/10.48573/6tqz-q565
+- Senn, J., Stolz, J., & Köhrsen, J. (2025). National Congregations Study Switzerland (NCSS) cross-sectional surveys, waves 1 and 2 (2008–2009, 2022–2023) (Version 1.0) [Data set]. FORS. [https://doi.org/10.48573/km80-t892](https://doi.org/10.48573/km80-t892)
+- Senn, J., Stolz, J., & Köhrsen, J. (2025). National Congregations Study Switzerland (NCSS) congregational census, waves 1 and 2 (2008–2009, 2020–2021) (Version 1.0) [Data set]. FORS. [https://doi.org/10.48573/6tqz-q565](https://doi.org/10.48573/6tqz-q565)
 
 #### Research articles
 
