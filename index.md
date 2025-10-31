@@ -15,6 +15,11 @@ layout: page
 
 ### Academia
 
+#### Datasets
+
+- Senn, J., Stolz, J., & Köhrsen, J. (2025). National Congregations Study Switzerland (NCSS) cross-sectional surveys, waves 1 and 2 (2008–2009, 2022–2023) (Version 1.0) [Data set]. FORS. https://doi.org/10.48573/km80-t892
+- Senn, J., Stolz, J., & Köhrsen, J. (2025). National Congregations Study Switzerland (NCSS) congregational census, waves 1 and 2 (2008–2009, 2020–2021) (Version 1.0) [Data set]. FORS. https://doi.org/10.48573/6tqz-q565
+
 #### Research articles
 
 - Senn, J., & Stolz, J. (2025). The sequential rise of female religious leadership. *Sociological Science, 12*(9), 180–201. [https://sociologicalscience.com/articles-v12-9-180/](https://sociologicalscience.com/articles-v12-9-180/)
@@ -26,10 +31,6 @@ layout: page
   - [Full text](https://link.springer.com/content/pdf/10.1007/978-3-658-36568-4_2.pdf)
   - [English short version published in *Social change in Switzerland*](https://forscenter.ch/wp-content/uploads/2022/02/stolz_final_en.pdf)
   - [French short version published in *Social change in Switzerland*](https://www.socialchangeswitzerland.ch/wp-content/uploads/2021/11/20211030_Stolz_Senn_FR-final_2.pdf)
-
-#### Datasets
-
-- Senn, J., Stolz, J. (2023), NCSS II Dataset \[csv & sav formats, 2417 cases, 207 variables, including weights\]
 
 ### Newspapers and online articles
 
