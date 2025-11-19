@@ -23,9 +23,9 @@ layout: page
 #### Research articles
 
 - Senn, J., & Stolz, J. (2025). The sequential rise of female religious leadership. *Sociological Science, 12*(9), 180–201. [https://sociologicalscience.com/articles-v12-9-180/](https://sociologicalscience.com/articles-v12-9-180/)
-- Stolz, J., Köhrsen, J., Senn et al. (2024). Sécularisation et inclusion. L’évolution des groupes religieux locaux en Suisse, 2008 – 2022. _Social Change in Switzerland, 39_. [https://doi.org/10.22019/SC-2024-00005](https://doi.org/10.22019/SC-2024-00005)
 - Senn, J., Stolz, J., & Monnot, C. (2024). Diversity dynamics: How local religious groups are born, stay, and die over time. *Journal for the Scientific Study of Religion, 63*(3), 519–542. [http://doi.org/10.1111/jssr.12907](http://doi.org/10.1111/jssr.12907)
-- Stolz, J., Senn, J. (in press). Religious markets, religious marketing, and individual religious choice in Europe. In Fokas, E. and Georgie, A. (eds.) _Routledge Handbook on Politics and Religion in Europe_. London: Routledge. 
+- Stolz, J., Senn, J. (2025). Religious markets, religious marketing, and individual religious choice in Europe. In Fokas, E. and Georgie, A. (eds.) _Routledge Handbook on Politics and Religion in Europe_. London: Routledge. 
+- Stolz, J., Köhrsen, J., Senn et al. (2024). Sécularisation et inclusion. L’évolution des groupes religieux locaux en Suisse, 2008 – 2022. _Social Change in Switzerland, 39_. [https://doi.org/10.22019/SC-2024-00005](https://doi.org/10.22019/SC-2024-00005)
 - Stolz, J., Senn, J. (2023). Säkularisierung und der Anstieg der Konfessionslosen in der Schweiz. Eine soziologische Perspektive. In Schulthess (Ed.). In _Zeiten der Säkularisierung. Herausforderungen für das Verhältnis von Staat und Religion_.
 - Stolz, J., and Senn, J. (2022). Generationen abnehmenden Glaubens. In J. Stolz, A. Bünker, A. Liedhegener, E. Baumann-Neuhaus, I. Becci, Z. Dandarova Robert, J. Senn, P. Tanner, O. Wäckerlig, & U. Winter-Pfändler (Eds.), _Religionstrends in der Schweiz : Religion, Spiritualität und Säkularität im gesellschaftlichen Wandel_ (pp. 7-31). Springer Fachmedien Wiesbaden. [https://doi.org/10.1007/978-3-658-36568-4_2](https://doi.org/10.1007/978-3-658-36568-4_2)
   - [Full text](https://link.springer.com/content/pdf/10.1007/978-3-658-36568-4_2.pdf)
