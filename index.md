@@ -16,15 +16,17 @@ layout: page
 
 ### Key achievements
 
-- Gathered a comprehensive census of local religious groups across all traditions (n ≈ 5,900), systematically combining multiple sources (previous censuses, websites, federation lists, interviews with religious and academic experts, Federal Statistical Office data)
-- Secured data-access agreements with 13+ national religious federations
+- Gathered a comprehensive census of local religious groups across all traditions (n ≈ 5,900), systematically combining multiple sources (previous censuses, websites, federation lists, expert interviews, Federal Statistical Office data) and making complex classification decisions (e.g., treating a merger of 32 parishes as 11 countable units)
+- Recruited, trained, and supervised 13 student assistants contributing to the census
+- Secured data-access agreements and letters of support from 13+ national religious federations
 - Co-designed a multimodal (CATI, CAWI), trilingual (German, French, Italian) questionnaire of 150+ questions; coordinated ~20 cognitive pretests with religious leaders from diverse traditions
-- Collected a nationally representative survey (n ≈ 1,400) with stratified random sampling and targeted oversampling of minority traditions
-- Developed multi-level weighting procedures correcting for stratification, oversampling, and complex organizational structures
+- Automated generation of several thousand personalized invitation and reminder letters via Julia
+- Collected a nationally representative survey (n ≈ 1,400; 45.4% response rate) with stratified random sampling and targeted oversampling of minority traditions
+- Developed multi-level weighting procedures correcting for stratification, oversampling, and complex organizational structures (e.g., Catholic pastoral units)
 - Harmonized datasets from both study waves (combined n ≈ 2,400)
-- Coordinated a three-institution collaboration (Uni Lausanne, Uni Basel, CIC) and managed fieldwork with LINK Institute
+- Coordinated a three-institution collaboration (Uni Lausanne, Uni Basel, CIC), managed fieldwork with LINK Institute, and adapted operations to the COVID-19 pandemic
 - Authored complete methodological documentation (methodological report, variable dictionary) and published data on SwissUbase
-- Published findings in peer-reviewed journals (*Sociological Science*; *Journal for the Scientific Study of Religion*; *Sociological Forum*)
+- Published findings in *Sociological Science*, *Journal for the Scientific Study of Religion*, and *Sociological Forum*; disseminated results to general audiences (_Le Temps_, _NZZ_, RSR La Première, etc.)
 
 ## Publications
 
