@@ -22,6 +22,7 @@ layout: page
 
 #### Research articles
 
+- Senn, J., & Stolz, J. (2026). Gay grace: The sequential rise of homosexuality acceptance in Swiss and US congregations. _Sociological Forum_. (accepted with minor revision)
 - Senn, J., & Stolz, J. (2025). The sequential rise of female religious leadership. *Sociological Science, 12*(9), 180–201. [https://sociologicalscience.com/articles-v12-9-180/](https://sociologicalscience.com/articles-v12-9-180/)
 - Senn, J., Stolz, J., & Monnot, C. (2024). Diversity dynamics: How local religious groups are born, stay, and die over time. *Journal for the Scientific Study of Religion, 63*(3), 519–542. [http://doi.org/10.1111/jssr.12907](http://doi.org/10.1111/jssr.12907)
 - Stolz, J., Senn, J. (2025). Religious markets, religious marketing, and individual religious choice in Europe. In Fokas, E. and Georgie, A. (eds.) _Routledge Handbook on Politics and Religion in Europe_. London: Routledge. 
